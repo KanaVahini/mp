@@ -1,0 +1,4 @@
+META-INF\spring.components
+lab\exm\GreetingController.class
+lab\exm\App.class
+lab\exm\Greeting.class

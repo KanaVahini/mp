@@ -1,0 +1,2 @@
+lab.exm.App=org.springframework.stereotype.Component
+lab.exm.GreetingController=org.springframework.stereotype.Component
